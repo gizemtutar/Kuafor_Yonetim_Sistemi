@@ -1,2 +1,2 @@
-# Kuafor_Yonetim_Sistemi
+### Kuafor_Yonetim_Sistemi
 Sakarya Üniversitesi Web Programlama dersi kapsamında açtığım repo. 
